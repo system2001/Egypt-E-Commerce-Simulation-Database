@@ -10,7 +10,7 @@ This dataset is perfect for those looking to build strong portfolio projects in 
 ## 🗄️ Database Schema (ERD)
 Below is the Entity-Relationship Diagram (ERD) illustrating the relationships between the 7 tables:
 
-![Database ERD](images/ERD.jpg) 
+![Database ERD](ERD.JPG) 
 *(Note: Ensure you upload your ERD image to an `images` folder in this repo and update this path if necessary, or use your Imgur link).*
 
 ## 📂 Repository Structure

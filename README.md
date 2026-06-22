@@ -11,7 +11,7 @@ This dataset is perfect for those looking to build strong portfolio projects in 
 Below is the Entity-Relationship Diagram (ERD) illustrating the relationships between the 7 tables:
 
 ![Database ERD](ERD.JPG) 
-*(Note: Ensure you upload your ERD image to an `images` folder in this repo and update this path if necessary, or use your Imgur link).*
+
 
 ## 📂 Repository Structure
 * `/data/`: Contains the 7 CSV files (`customers.csv`, `orders.csv`, `employees.csv`, etc.) representing the simulated data.
@@ -31,8 +31,8 @@ The dataset is also available and easily accessible on Kaggle. You can find it h
 **Osama Hegazy** Data Scientist | Founder of **DataCraft**
 
 This project was built to support the data community. For more data analysis resources, SQL challenges, and educational content, follow the DataCraft community!
-* **LinkedIn:** [Insert your LinkedIn Profile Link]
-* **Telegram / DataCraft:** [Insert your Telegram Channel Link]
+* **LinkedIn:** [https://www.linkedin.com/in/osama-hegazy-1604b720a/]
+
 
 ---
 *License: CC BY-NC 4.0 - Free for educational and non-commercial use.*

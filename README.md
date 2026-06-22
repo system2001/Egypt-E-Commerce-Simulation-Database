@@ -14,7 +14,7 @@ Below is the Entity-Relationship Diagram (ERD) illustrating the relationships be
 
 
 ## 📂 Repository Structure
-* `/data/`: Contains the 7 CSV files (`customers.csv`, `orders.csv`, `employees.csv`, etc.) representing the simulated data.
+* [Database ](DataSet) : Contains the 7 CSV files (`customers.csv`, `orders.csv`, `employees.csv`, etc.) representing the simulated data.
 * `/sql/`: Contains SQL scripts for creating the database schema and sample analytical queries.
 * `/images/`: Contains diagrams and dashboard screenshots.
 

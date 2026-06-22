@@ -1,3 +1,4 @@
+
 # 🛒 Egypt E-Commerce Simulation Database
 
 Welcome to the **Egypt E-Commerce Simulation Dataset** repository. This project provides a comprehensive, simulated relational database for an e-commerce platform operating in the Egyptian market. It is designed to be a practical playground for data professionals to practice SQL, design Business Intelligence dashboards, and build predictive models.
@@ -15,7 +16,7 @@ Below is the Entity-Relationship Diagram (ERD) illustrating the relationships be
 
 ## 📂 Repository Structure
 * [Database ](DataSet) : Contains the 7 CSV files (`customers.csv`, `orders.csv`, `employees.csv`, etc.) representing the simulated data.
-* `/sql/`: Contains SQL scripts for creating the database schema and sample analytical queries.
+* [SQL ](SQL) : Contains SQL scripts for creating the database schema and sample analytical queries.
 * `/images/`: Contains diagrams and dashboard screenshots.
 
 ## 💡 How to Use This Data
@@ -32,6 +33,7 @@ The dataset is also available and easily accessible on Kaggle. You can find it h
 
 This project was built to support the data community. For more data analysis resources, SQL challenges, and educational content, follow the DataCraft community!
 * **LinkedIn:** [https://www.linkedin.com/in/osama-hegazy-1604b720a/]
+
 
 
 ---
